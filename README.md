@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChloeDelphis
-- 👀 I’m interested in coding beautiful websites while optimizing my code
+- 👀 I’m interested in coding beautiful websites with clean code
 - 🌱 I’m currently learning java and React.js
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/chloedelphis/)
