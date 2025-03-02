@@ -2,7 +2,7 @@
 
 I am currently learning java and React.js at École de la Qualité logicielle in Montrouge.
 
-I will be available for job opportunities starting in May 2025.
+I will be available for job opportunities in Paris starting in May 2025.
 
 ### 🔨 I am currently working on my end-of-studies project:
 
