@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Chloe Delphis
 
-I am currently learning java and React.js at École de la Qualité logicielle in Montrouge.
+I am currently learning java and React.js at École de la Qualité Logicielle in Montrouge.
 
 I will be available for job opportunities in Paris starting in May 2025.
 
