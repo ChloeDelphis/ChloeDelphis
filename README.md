@@ -11,9 +11,9 @@ I will be available for job opportunities starting in May 2025.
 An application to share favorite quotes from and thoughts about Marcel Proust's _In Search of Lost Time_.
 
 _Backend: Spring Boot, Spring Security_  
- _Database: MariaDb_  
- _Caching system: Redis_  
- _Frontend: React_
+_Database: MariaDb_  
+_Caching system: Redis_  
+_Frontend: React_
 
 ## 👾 I have recently collaborated on:
 
@@ -23,8 +23,10 @@ A peer-to-peer electric vehicle charging application.
 
 I have especially worked on the **search functionality**
 
-_Backend: Java 8, Maven, JDBC, MariaDb  
- Frontend: HTML, CSS, Bootstrap, JavaScript_
+_Backend: Java 8, Maven, JDBC_  
+_Database: MariaDb_  
+_Frontend: HTML, CSS, Bootstrap, JavaScript_  
+_External API: Open Street Map_
 
 ### [A year book application](https://github.com/ChloeDelphis/year-book_low-level_java)
 
