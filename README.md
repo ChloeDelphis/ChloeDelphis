@@ -7,7 +7,7 @@ I am currently learning Java and React.js at **École de la Qualité Logicielle*
 
 ---
 
-## 🔨 Current Project: **Proust Club**  
+## 🔨 Current individual project: **Proust Club**  
 An application to share favorite quotes from and thoughts about *Marcel Proust's In Search of Lost Time*.  
 
 **Tech stack:**  
@@ -18,9 +18,9 @@ An application to share favorite quotes from and thoughts about *Marcel Proust's
 
 ---
 
-## 👾 Recent Projects  
+## 👾 Recent Collaborations  
 
-### **Watt Else** ⚡  
+### **[Watt Else](https://github.com/ChloeDelphis/Watt_Else_Linus)** ⚡  
 **A peer-to-peer electric vehicle charging application**.  
 ✔️ **Main contribution:** Implemented the search functionality.  
 
@@ -30,7 +30,7 @@ An application to share favorite quotes from and thoughts about *Marcel Proust's
 - 🌍 External API: *OpenStreetMap*  
 - 🎨 Frontend: *HTML, CSS, Bootstrap, JavaScript*  
 
-### **Yearbook Application** 📖  
+### **[Yearbook Application](https://github.com/ChloeDelphis/year-book_low-level_java)** 📖  
 **A low-level application** for managing a yearbook with **binary tree storage in a binary file**.  
 ✔️ **Main technologies**: *JavaFX, PDFBox library*  
 
