@@ -11,9 +11,9 @@ I am currently learning Java and React.js at **École de la Qualité Logicielle*
 An application to share favorite quotes from and thoughts about *Marcel Proust's In Search of Lost Time*.  
 
 **Tech stack:**  
-- 🏗 Backend: *Spring Boot, Spring Security*  
-- 🗄 Database: *MariaDB*  
-- ⚡ Caching system: *Redis*  
+- 🏗 Backend: *Spring Boot + Spring Security*  
+- 🗄 Database: *MariaDB*
+- 🔍 Search & Analytics: *ElasticSearch*
 - 🎨 Frontend: *React*  
 
 ---
