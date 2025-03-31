@@ -13,7 +13,7 @@ An application to share favorite quotes from and thoughts about *Marcel Proust's
 **Tech stack:**  
 - 🏗 Backend: *Spring Boot + Spring Security*  
 - 🗄 Database: *MariaDB*
-- 🔍 Search & Analytics: *ElasticSearch*
+- 🔍 Search: *ElasticSearch*
 - 🎨 Frontend: *React*  
 
 ---
