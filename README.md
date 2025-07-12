@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Chloe Delphis  
 
-🚀 **Aspiring Fullstack Developer** | **Java & React Enthusiast**  
-
-I am currently learning Java and React.js at **École de la Qualité Logicielle** in Montrouge.  
-💼 **Available for job opportunities from late April 2025**.  
+🚀 **Fullstack Developer** | **Java & React Enthusiast**  
 
 ---
 
