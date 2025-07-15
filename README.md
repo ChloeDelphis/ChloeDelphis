@@ -4,14 +4,14 @@
 
 ---
 
-## 🔨 Current individual project: **Proust Club**  
+## 🌸 Current individual project: **Proust Club**  
 An application to share favorite quotes from and thoughts about *Marcel Proust's In Search of Lost Time*.  
 
 **Tech stack:**  
-- 🏗 Backend: *Spring Boot + Spring Security*  
-- 🗄 Database: *MariaDB*
-- 🔍 Search: *ElasticSearch*
-- 🎨 Frontend: *React*  
+- Backend: *Spring Boot, Spring Security*  
+- Database: *MariaDB*
+- Search: *ElasticSearch*
+- Frontend: *React, Axios, React Query*  
 
 ---
 
@@ -19,17 +19,17 @@ An application to share favorite quotes from and thoughts about *Marcel Proust's
 
 ### **[Watt Else](https://github.com/ChloeDelphis/Watt_Else_Linus)** ⚡  
 **A peer-to-peer electric vehicle charging application**.  
-✔️ **Main contribution:** Implemented the search functionality.  
+**Main contribution:** Implemented the search functionality.  
 
 **Tech stack:**  
-- 🔙 Backend: *Java 8, Maven, JDBC*  
-- 🗄 Database: *MariaDB*  
-- 🌍 External API: *OpenStreetMap*  
-- 🎨 Frontend: *HTML, CSS, Bootstrap, JavaScript*  
+- Backend: *Java 8, Maven, JDBC*  
+- Database: *MariaDB*  
+- External API: *OpenStreetMap*  
+- Frontend: *HTML, CSS, Bootstrap, JavaScript*  
 
 ### **[Yearbook Application](https://github.com/ChloeDelphis/year-book_low-level_java)** 📖  
 **A low-level application** for managing a yearbook with **binary tree storage in a binary file**.  
-✔️ **Main technologies**: *JavaFX, PDFBox library*  
+**Tech stack:**   *JavaFX, PDFBox library*  
 
 ---
 
