@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Chloe Delphis  
+# 👋 Hi, I'm Chloé Delphis  
 
-🚀 **Fullstack Developer** | **Java & React Enthusiast**  
+  
+**Fullstack Developer** | **Java & React Enthusiast**  
 
 ---
 
