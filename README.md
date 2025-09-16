@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Chloé Delphis  
+# Hi, I'm Chloé Delphis  
+### Fullstack Developer (Spring Boot & React) | Aspiring Devsecops
 
-  
-**Fullstack Developer** | **Java & React Enthusiast**  
-
+---
 ---
 
 ## 🌸 Current individual project: **Proust Club**  
-An application to share favorite quotes from and thoughts about *Marcel Proust's In Search of Lost Time*.  
+An application to share favorite quotes from and thoughts about Marcel Proust's *In Search of Lost Time*.  
 
 **Tech stack:**  
-- Backend: *Spring Boot, Spring Security*  
-- Database: *MariaDB*
-- Search: *ElasticSearch*
-- Frontend: *React, Axios, React Query*  
+- Backend: Spring Boot, Java
+- Database: MariaDB
+- Search: ElasticSearch
+- Frontend: React, Axios, React Query
 
 ---
 
@@ -23,14 +22,14 @@ An application to share favorite quotes from and thoughts about *Marcel Proust's
 **Main contribution:** Implemented the search functionality.  
 
 **Tech stack:**  
-- Backend: *Java 8, Maven, JDBC*  
-- Database: *MariaDB*  
-- External API: *OpenStreetMap*  
-- Frontend: *HTML, CSS, Bootstrap, JavaScript*  
+- Backend: Java 8, Maven, JDB  
+- Database: MariaDB  
+- External API: OpenStreetMap
+- Frontend: HTML, CSS, Bootstrap, JavaScript
 
 ### **[Yearbook Application](https://github.com/ChloeDelphis/year-book_low-level_java)** 📖  
 **A low-level application** for managing a yearbook with **binary tree storage in a binary file**.  
-**Tech stack:**   *JavaFX, PDFBox library*  
+**Tech stack:**   JavaFX, PDFBox library
 
 ---
 
