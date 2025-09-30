@@ -1,4 +1,4 @@
-# Hi, I'm Chloé Delphis, a Fullstack developer, exploring DevOps and Security  
+# Hi, I'm Chloé Delphis, a Fullstack developer exploring DevOps and Security  
 
 ### 💻​ Currently learning:  
 
