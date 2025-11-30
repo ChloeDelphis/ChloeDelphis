@@ -1,11 +1,4 @@
-# Hi, I'm Chloé Delphis, a Fullstack developer exploring DevOps and Security  
-
-### 💻​ Currently learning:  
-
-- Network, and security on TryHackMe --> [My write-ups](https://chloedelphis.github.io/tryhackme-writeups/)
-
-- [Docker and Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/?couponCode=LETSLEARNNOW)
-
+# Hi, I'm Chloé Delphis, a Java Fullstack developer exploring DevOps and Security  
   
 ### 🌸 Currently working on Proust Club 
 An application to share favorite quotes from and thoughts about Marcel Proust's *In Search of Lost Time*.  
