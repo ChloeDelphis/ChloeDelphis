@@ -1,4 +1,4 @@
-Currently building [Proust Club](https://github.com/ChloeDelphis/proust-club), a reading companion for Marcel Proust's *In Search of Lost Time*.
+Currently building [Proust Club](https://github.com/ChloeDelphis/proust-club), a reading garden for Marcel Proust's *In Search of Lost Time*.
 
 [LinkedIn](https://www.linkedin.com/in/chloedelphis/)
 
